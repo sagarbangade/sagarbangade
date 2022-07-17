@@ -14,13 +14,14 @@
 
 - ⚡ Fun fact: **We can talk about Aliens all day.**
 
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+<h3 align="left">Connect with me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30" width="40" /></h3>
 <p align="left">
+
 <a href="https://twitter.com/bangadesagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bangadesagar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-bangade" height="30" width="40" /></a>
 <a href="https://fb.com/sagar.bangade.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar.bangade.9" height="30" width="40" /></a>
 <a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain._.sagar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sagar eknath bangade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar eknath bangade" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCd93GgRkwFrNJjROYdWSu2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar eknath bangade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
