@@ -28,6 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&theme=radical&hide=glsl,python" alt="sagarbangade" /></p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&&show_icons=true&theme=radical" alt="sagarbangade">
+<p align="left"><img src="https://user-images.githubusercontent.com/109343765/179390601-a1c63836-86f5-44be-9574-5861d91f8f8e.gif " width="175">
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&&show_icons=true&theme=radical" alt="sagarbangade">
 </p>
