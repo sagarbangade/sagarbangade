@@ -1,8 +1,11 @@
 <h3><img align="center" src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif" height="250" width="1200" /></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbangade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" /> </p>
 <h1 align="center">Hi 👋, I'm Sagar Eknath Bangade</h1>
 <h3 align="center">Pursuing 🎓 B. Tech. in Artificial Intelligence (3rd year) 🎓</h3>
+
+<h3><img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" /></h3>
+
 
 - 🔭 I’m currently working on **Machine learning**
 
@@ -15,6 +18,10 @@
 - 💬 Ask me about **java, python, web development, networking**
 
 - ⚡ Fun fact: **We can talk about Aliens all day.**
+
+
+
+
 
 <h3 align="left">Connect with me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30" width="40" /></h3>
 <p align="left">
