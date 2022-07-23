@@ -1,8 +1,7 @@
 
 
 
-<p><img src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif" display:block;
-    width:100%; height:70%;</></p>
+<p><img src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif"</></p>
 
 
 
