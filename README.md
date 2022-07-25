@@ -1,10 +1,5 @@
 
-
-
 <p><img src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif"</></p>
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" /> </p>
