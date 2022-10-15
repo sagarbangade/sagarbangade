@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" /> </p>
-<h1 align="center">Hi 👋, I'm Sagar Eknath Bangade</h1>
+<h1 align="center">Hi <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" height="30" width="40" />, I'm Sagar Eknath Bangade</h1>
 <h3 align="center">Pursuing 🎓 B. Tech. in Artificial Intelligence (3rd year) 🎓</h3>
 
 <h3><img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" /></h3>
