@@ -3,12 +3,16 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" /> </p>
-<h1 align="center">Hi <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" height="30" width="40" />, I'm Sagar Eknath Bangade</h1>
-<h3 align="center">Pursuing 🎓 B. Tech. in Artificial Intelligence (3rd year) 🎓</h3>
+<h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade</h1>
+<div align= "center">
+     
+ <img src="https://readme-typing-svg.herokuapp.com?color=ff4603&center=true&lines=Full+Stack+Java+Developer"></img></a>
+     </div>
 <div>
 <h3><img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" /></h3>
  </div>
 <div>
+ 
 - 🔭 I’m currently working on **Machine learning**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning.**
@@ -25,7 +29,7 @@
 
 
 
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40" width="50" /></h3>
+<h3 align="left">Connect with me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35" width="50" /></h3>
 <p align="left">
 
 <a href="https://twitter.com/bangadesagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bangadesagar" height="30" width="40" /></a>
@@ -37,12 +41,14 @@
 
 
  
-  ####   Top Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-<p align="left"
- href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&hide_border=true&title_color=FE3C01&text_color=e6b400"/>
+  ####   Top Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height ="40" width="50">
+<p align="center">
+<a href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20"/></a>
  </p>
-
-<p align="right" href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&hide_border=true&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true"/>
+ 
+####    My Github Stats <img src="https://media.giphy.com/media/W1qi3AYFiW31B8o3Jo/giphy.gif" height="30" width="40">  
+<p align="center">  
+<a href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
 </p>
 
 
@@ -50,13 +56,13 @@
 
 
 
-####    My Github Streaks
+####    My Github Streaks <img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" height ="40" width="50">  
 
  <p align="center">
     <a href="https://github.com/sagarbangade/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=D24939&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=transparent&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=03a2ff&currStreakNum=ff4603&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
     </a>
 </p>
 
 
-## this page is in under construction 🚧 
+## This page is in <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">   <img src="https://media.giphy.com/media/sOaKnjmTTPsBqM1DSA/giphy.gif" width="300">  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">
