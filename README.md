@@ -40,8 +40,7 @@
 
 <p align="left">
 <a href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20"/></a>
-</p>
-<p align="right">
+
 <a href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
 </p>
 
@@ -53,8 +52,8 @@
 ####    My Github Streaks
 
  <p align="center">
-    <a href="https://github.com/RajlaxmiMeshram/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=gruvbox&background=D24939&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
+    <a href="https://github.com/sagarbangade/github-readme-streak-stats">
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=D24939&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
     </a>
 </p>
 
