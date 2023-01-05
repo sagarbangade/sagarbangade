@@ -39,7 +39,7 @@
 
  <p align="center">
     <a href="https://github.com/sagarbangade/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=transparent&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=03a2ff&currStreakNum=ff4603&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=transparent&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=03a2ff&currStreakNum=ff4603&border=DDDAD5&sideNums=EDFFee&sideLabels=EDFFee&currStreakLabel=DDBE28&border_radius=20"/>
     </a>
 </p>
 
