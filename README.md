@@ -3,60 +3,36 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" /> </p>
-<h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade</h1>
-<p align="right">
-
+<h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade
 <a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" alt="sagar-bangade" height="50" width="50" /></a>
 <a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://media.giphy.com/media/rtPB2ESdZPAy1Wd4EH/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCd93GgRkwFrNJjROYdWSu2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar eknath bangade" height="30" width="40" /></a>
+</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&duration=4500&pause=1000&color=F72F00&width=435&lines=Full+Stack+Java+Developer;6+month's+of+Internship+Experience;Degree+in+Artificial+intelligence" alt="Typing SVG" /></a>
 </p>
-<div align= "center">
-     
- <img src="https://readme-typing-svg.herokuapp.com?color=ff4603&center=true&lines=Full+Stack+Java+Developer"></img></a>
-     </div>
-<div>
 <h3><img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" /></h3>
  </div>
 <div>
- 
-- 🔭 I’m currently working on **Java Hibernate Framework**
-
-- 🌱 I’m currently learning **Artificial Intelligence & Web Development.**
-
-- 💬 Ask me about **web development, networking, AI ML**
-
-- ⚡ Fun fact: **We can talk about Aliens all day.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&size=17&duration=4500&pause=1000&color=F72F00&multiline=true&width=650&height=160&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Java+Hibernate+Framework;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Artificial+Intelligence+%26+Web+Development.;%F0%9F%92%AC+Ask+me+about+web+development%2C+networking%2C+AI+ML;%E2%9A%A1+Fun+fact%3A+We+can+talk+about+Aliens+all+day." alt="Typing SVG" /></a>
  </div>
 
 
 
-
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35" width="50" /></h3>
-<p align="left">
-
-<a href="https://twitter.com/bangadesagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bangadesagar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-bangade" height="30" width="40" /></a>
-<a href="https://fb.com/sagar.bangade.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar.bangade.9" height="30" width="40" /></a>
-<a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain._.sagar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCd93GgRkwFrNJjROYdWSu2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar eknath bangade" height="30" width="40" /></a>
-</p>
-
-
-<details>
-     <summary><h2>____________My</h2></br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="300"/>
+<details open>
+     <summary><h2>Github Stats and Activity</h2></br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="300"/>
 </summary>
-  ####   Top Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height ="40" width="50">
-<p align="center">
-<a href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20"/></a>
- </p>
- 
-####    My Github Stats <img src="https://media.giphy.com/media/W1qi3AYFiW31B8o3Jo/giphy.gif" height="30" width="40">  
-<p align="center">  
-<a href="https://github.com/sagarbangade/github-readme-stats"><img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
+<p align="left">  
+<img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="32%"/>
+ <img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"width="49%"/>
 </p>
 
 
+<!--
+       ####   Top Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height ="40" width="50">
 
+     ####    My Github Stats <img src="https://media.giphy.com/media/W1qi3AYFiW31B8o3Jo/giphy.gif" height="30" width="40">  
+ -->
 
 
 
