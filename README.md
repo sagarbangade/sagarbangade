@@ -2,13 +2,16 @@
 <p><img src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif"</></p>
 
 
-<h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade
+<h1 align="center" >Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade
 <a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" alt="sagar-bangade" height="50" width="50" /></a>
 <a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://media.giphy.com/media/rtPB2ESdZPAy1Wd4EH/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>
-<img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" /></h1>
+<img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" />
+</h1>
+
+<!--<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="350"/>-->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&duration=4500&pause=1000&color=F72F00&width=435&lines=Full+Stack+Java+Developer;6+month's+of+Internship+Experience;Degree+in+Artificial+intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&duration=4500&pause=1000&color=00f7eb&width=435&lines=Full+Stack+Java+Developer;6+month's+of+Internship+Experience;Degree+in+Artificial+intelligence" alt="Typing SVG" /></a></br>
 </p>
 <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" />
  </div>
@@ -20,9 +23,9 @@
 <details open>
      <summary><h2>Github Stats and Activity</h2></br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="300"/>
 </summary>
-<p align="left">  
-<img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="38%"/>
- <img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"width="57%"/>
+<p align="center">  
+<img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="37%"/>
+ <img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"width="58%"/>
 </p>
 
 
@@ -33,14 +36,14 @@
  -->
 
 
-
-####    My Github Streaks <img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" height ="40" width="50">  
+<details>
+<summary>My Github Streaks <img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" height ="40" width="50">  </summary>
 
  <p align="center">
     <a href="https://github.com/sagarbangade/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=transparent&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=03a2ff&currStreakNum=ff4603&border=DDDAD5&sideNums=EDFFee&sideLabels=EDFFee&currStreakLabel=DDBE28&border_radius=20"/>
     </a>
-</p>
+</p></details>
 
 </details>
      
