@@ -2,7 +2,7 @@
 <p><img src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif"</></p>
 
 
-<summary><h1 align="center" >Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade
+<summary><h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="65" width="" />, I'm Sagar Eknath Bangade
 <a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" alt="sagar-bangade" height="50" width="50" /></a>
 <a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://media.giphy.com/media/rtPB2ESdZPAy1Wd4EH/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>
 <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" />
