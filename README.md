@@ -16,7 +16,7 @@
 <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" />
  </div>
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=3500&pause=&color=B3FFCE&vCenter=true&multiline=true&width=600&height=260&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Java+Hibernate+Framework.;+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Artificial+Intelligence.;+;%F0%9F%92%AC+Ask+me+about+web+development%2C+networking%2C+AI+ML.;+;%E2%9A%A1+Fun+fact%3A+We+can+talk+about+Aliens+all+day.;+" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=B3FFCE&vCenter=true&multiline=true&width=600&height=200&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Java+Hibernate+Framework.;+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Artificial+Intelligence.;+;%F0%9F%92%AC+Ask+me+about+web+development%2C+networking%2C+AI+ML.;+;%E2%9A%A1+Fun+fact%3A+We+can+talk+about+Aliens+all+day.;+" alt="Typing SVG" /></a></div>
 
 
 
