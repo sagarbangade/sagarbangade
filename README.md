@@ -20,7 +20,7 @@
 
 
 <details open>
-     <summary><h2>Github Stats and Activity</h2></br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="300"/>
+     <summary><h2>Github Stats and Activity</br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="280" height="2.5"/></h2></br>
 </summary>
 <p align="center">  
 <img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="37%"/>
@@ -56,7 +56,7 @@
      
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="300"/>
+  <summary><h2>🛠️ My Favorite Tools</br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="280" height="2.5"/></h2>
 </summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
