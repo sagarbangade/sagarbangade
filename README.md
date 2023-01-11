@@ -44,6 +44,22 @@
     </a>
 </p></details>
 
+<details><summary> :trophy: Git profile Trophies </summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarbangade&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sagarbangade" /></a> </p>
+	
+</details>
+<details><summary>⚡ Recent GitHub Activity</summary>
+
+----
+	
+[![sagarbangade's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagarbangade&theme=github)](https://github.com/sagarbangade/github-readme-activity-graph)
+
+ 
+</details>
+
 </details>
      
      
