@@ -5,7 +5,7 @@
 <h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi <img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" height="55" width="" />, I'm Sagar Eknath Bangade
 <a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" alt="sagar-bangade" height="50" width="50" /></a>
 <a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://media.giphy.com/media/rtPB2ESdZPAy1Wd4EH/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>
-<a href="https://gist.github.com/sagarbangade" target="blank"><img align="center" src="https://user-images.githubusercontent.com/109343765/211860698-8f276e7f-4f1f-4300-ad81-7822fa2939f3.jpeg" alt="sagarbangade" height="30" width="60" /></a>
+<a href="https://gist.github.com/sagarbangade" target="blank"><img align="center" src="https://user-images.githubusercontent.com/109343765/211860698-8f276e7f-4f1f-4300-ad81-7822fa2939f3.jpeg" alt="sagarbangade" height="25" width="55" /></a>
 
 </h1>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="950" height="2.5"/>
