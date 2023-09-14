@@ -38,7 +38,7 @@
  -->
 
 
-<details>
+<details open>
 <summary>My Github Streaks <img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" height ="40" width="50">  </summary>
 
  <p align="center">
@@ -47,7 +47,7 @@
     </a>
 </p></details>
 
-<details><summary> :trophy: Git profile Trophies </summary>
+<details open><summary> :trophy: Git profile Trophies </summary>
 
 ----
 	
@@ -74,7 +74,7 @@
      
      
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="280" height="2.5"/></h2>
 </summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
