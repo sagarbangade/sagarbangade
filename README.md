@@ -47,11 +47,17 @@
     </a>
 </p></details>
 
-<details open><summary> :trophy: Git profile Trophies </summary>
+<details open>
+	<summary> :trophy: Git profile Trophies </summary>
 
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarbangade&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sagarbangade" /></a> </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sagarbangade&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-frame=true" alt="sagarbangade's GitHub Trophy" />
+  </a>
+</p>
+
+
 	
 </details>
 <details><summary>⚡ Recent GitHub Activity</summary>
@@ -161,6 +167,7 @@
      
      
      
-     
-##  <pre>       This page is in <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">   <img src="https://media.giphy.com/media/sOaKnjmTTPsBqM1DSA/giphy.gif" width="300">  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">
-</pre> 
+<p align="center">
+  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">   <img src="https://media.giphy.com/media/sOaKnjmTTPsBqM1DSA/giphy.gif" width="300">  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">
+</p>
+
