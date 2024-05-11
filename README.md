@@ -13,7 +13,7 @@
 <!-- <p align="center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&duration=4500&pause=1000&color=00f7eb&width=435&lines=Full+Stack+Java+Developer;6+month's+of+Internship+Experience;Degree+in+Artificial+intelligence;Freelancer" alt="Typing SVG" /></p></a></br> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&color=00f7eb&width=600&lines=Founder+of+SkillsFoster.com+and+Shreecode.in;Intern+at+ImmverseAI+Specializing+in+Generative+AI;Aspiring+Entrepreneur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&color=fe3c01&width=600&lines=Founder+of+SkillsFoster.com+and+Shreecode.in;Intern+at+ImmverseAI+Specializing+in+Generative+AI;Aspiring+Entrepreneur" alt="Typing SVG" />
   </a>
 </p>
 </br>
@@ -28,7 +28,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=B3FFCE&vCenter=true&multiline=true&width=600&height=200&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Java+Hibernate+Framework.;+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Artificial+Intelligence.;+;%F0%9F%92%AC+Ask+me+about+web+development%2C+networking%2C+AI+ML.;+;%E2%9A%A1+Fun+fact%3A+We+can+talk+about+Aliens+all+day.;+" alt="Typing SVG" /></a></div> -->
 <div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=B3FFCE&vCenter=true&multiline=true&width=600&height=200&lines=%F0%9F%94%AD+Exploring+the+latest+in+AI+technology.;+;%F0%9F%8C%B1+Developing+an+E-learning+platform.;+;%F0%9F%92%AC+Ask+me+anything+related+to+tech.;+;%E2%9A%A1+Fun+fact%3A+I'm+passionate+about+Aliens+and+weird+stuff.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=fe3c01&vCenter=true&multiline=true&width=600&height=200&lines=%F0%9F%94%AD+Exploring+the+latest+in+AI+technology.;+;%F0%9F%8C%B1+Developing+an+E-learning+platform.;+;%F0%9F%92%AC+Ask+me+anything+related+to+tech.;+;%E2%9A%A1+Fun+fact%3A+I'm+passionate+about+Aliens+and+weird+stuff.;" alt="Typing SVG" />
 </a>
 </div>
 
@@ -40,6 +40,7 @@
 <img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="37%"/>
  <img alt="sagar bangade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&include_all_commits=true&border_radius=20"width="58%"/>
 </p>
+
 
 
 <!--
@@ -54,7 +55,7 @@
 
  <p align="center">
     <a href="https://github.com/sagarbangade/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=transparent&background=transparent&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=03a2ff&currStreakNum=ff4603&border=DDDAD5&sideNums=EDFFee&sideLabels=EDFFee&currStreakLabel=DDBE28&border_radius=20"/>
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sagarbangade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbangade&show_icons=true&count_private=true&theme=codeSTACKr&background=transparent&border=DDDAD5&border_radius=20"/>
     </a>
 </p></details>
 
@@ -64,18 +65,17 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sagarbangade&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-frame=true" alt="sagarbangade's GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sagarbangade&theme=juicyfresh&no-frame=true" alt="sagarbangade's GitHub Trophy" />
   </a>
 </p>
 
 
 	
 </details>
-<details><summary>⚡ Recent GitHub Activity</summary>
-
-----
+<details open><summary>⚡ Recent GitHub Activity</summary>
 	
-[![sagarbangade's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sagarbangade&theme=github)](https://github.com/sagarbangade/github-readme-activity-graph)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbangade&theme=codeSTACKr&background=transparent"/>
+
 
  
 </details>
