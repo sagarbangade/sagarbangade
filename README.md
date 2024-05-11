@@ -9,7 +9,7 @@
 
 </h1>
 <!-- <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="950" height="2.5"/> -->
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+<!--         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/> -->
 <!-- <p align="center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&duration=4500&pause=1000&color=00f7eb&width=435&lines=Full+Stack+Java+Developer;6+month's+of+Internship+Experience;Degree+in+Artificial+intelligence;Freelancer" alt="Typing SVG" /></p></a></br> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -22,13 +22,15 @@
 <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" />
 </div>
 <div>	
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" />
+<!-- <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" /> -->
+<!-- <a href="https://git.io/typing-svg">
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=fe3c01&vCenter=true&multiline=true&width=400&height=200&lines=while(alive)%7B%0Aeat()%3B%0Asleep()%3B%0Acode()%3B%0A++++++repeat()%3B%0A%7D;" alt="Typing SVG" />
+</a> -->
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1&color=FE3C01&multiline=true&random=false&width=200&height=150&separator=%3C&lines=while(alive)+%7B%3C&#160+eat();%3C&#160+sleep();%3C&#160+code();%3C&#160+repeat();%3C%7D" alt="Typing SVG" /></a>
 </div>
-<!-- <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=B3FFCE&vCenter=true&multiline=true&width=600&height=200&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Java+Hibernate+Framework.;+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Artificial+Intelligence.;+;%F0%9F%92%AC+Ask+me+about+web+development%2C+networking%2C+AI+ML.;+;%E2%9A%A1+Fun+fact%3A+We+can+talk+about+Aliens+all+day.;+" alt="Typing SVG" /></a></div> -->
 <div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=fe3c01&vCenter=true&multiline=true&width=600&height=200&lines=%F0%9F%94%AD+Exploring+the+latest+in+AI+technology.;+;%F0%9F%8C%B1+Developing+an+E-learning+platform.;+;%F0%9F%92%AC+Ask+me+anything+related+to+tech.;+;%E2%9A%A1+Fun+fact%3A+I'm+passionate+about+Aliens+and+weird+stuff.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=fe3c01&vCenter=true&multiline=true&width=500&height=200&lines=%F0%9F%94%AD+Exploring+the+latest+in+AI+technology.;+;%F0%9F%8C%B1+Developing+an+E-learning+platform.;+;%F0%9F%92%AC+Ask+me+anything+related+to+tech.;+;%E2%9A%A1+Fun+fact%3A+I'm+passionate+about+Aliens+and+weird+stuff.;" alt="Typing SVG" />
 </a>
 </div>
 
