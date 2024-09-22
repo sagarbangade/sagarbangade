@@ -3,15 +3,8 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/c433d191-c6f3-4b6f-beee-38f666d93d2b"/>
 </div>
-<h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi<a href="" target="blank"><img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>, I'm Sagar Eknath Bangade
-<!-- <!-- <a href="https://www.linkedin.com/in/sagar-bangade/" target="blank"><img align="center" src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" alt="sagar-bangade" height="50" width="50" /></a> -->
-<!-- <a href="https://instagram.com/captain._.sagar" target="blank"><img align="center" src="https://media.giphy.com/media/rtPB2ESdZPAy1Wd4EH/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a> -->
-<!-- <a href="https://gist.github.com/sagarbangade" target="blank"><img align="center" src="https://user-images.githubusercontent.com/109343765/211860698-8f276e7f-4f1f-4300-ad81-7822fa2939f3.jpeg" alt="sagarbangade" height="25" width="55" /></a> -->
+<h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi<a href="" target="blank"><img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>, I'm Sagar Eknath Bangade</h1>
 
-</h1>
-<!-- <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="950" height="2.5"/> -->
-<!--         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/> -->
-<!-- <p align="center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&duration=4500&pause=1000&color=00f7eb&width=435&lines=Full+Stack+Java+Developer;6+month's+of+Internship+Experience;Degree+in+Artificial+intelligence;Freelancer" alt="Typing SVG" /></p></a></br> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&color=fe3c01&width=600&lines=Founder+of+SkillsFoster.com+and+Shreecode.in;Intern+at+ImmverseAI+Specializing+in+Generative+AI;Aspiring+Entrepreneur" alt="Typing SVG" />
@@ -22,10 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" />
 </div>
 <div>	
-<!-- <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="200" width=230" /> -->
-<!-- <a href="https://git.io/typing-svg">
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=450&size=17&duration=2500&pause=1&color=fe3c01&vCenter=true&multiline=true&width=400&height=200&lines=while(alive)%7B%0Aeat()%3B%0Asleep()%3B%0Acode()%3B%0A++++++repeat()%3B%0A%7D;" alt="Typing SVG" />
-</a> -->
+
 <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1&color=FE3C01&multiline=true&random=false&width=200&height=150&separator=%3C&lines=while(alive)+%7B%3C&#160+eat();%3C&#160+sleep();%3C&#160+code();%3C&#160+repeat();%3C%7D" alt="Typing SVG" /></a>
 </div>
 <div>
@@ -36,7 +26,7 @@
 
 
 <details open>
-     <summary><h2>Github Stats and Activity</br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="280" height="2.5"/></h2></br>
+     <summary><h2>Github Stats and Activity</br>
 </summary>
 <p align="center">  
 <img alt="sagarbangade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=100&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="37%"/>
@@ -45,15 +35,6 @@
 
 
 
-<!--
-       ####   Top Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height ="40" width="50">
-
-     ####    My Github Stats <img src="https://media.giphy.com/media/W1qi3AYFiW31B8o3Jo/giphy.gif" height="30" width="40">  
- -->
-
-
-<details open>
-<summary>My Github Streaks <img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" height ="40" width="50">  </summary>
 
  <p align="center">
     <a href="https://github.com/sagarbangade/github-readme-streak-stats">
@@ -61,8 +42,8 @@
     </a>
 </p></details>
 
-<details open>
-	<summary> :trophy: Git profile Trophies </summary>
+
+
 
 
 <p align="center">
@@ -73,16 +54,14 @@
 
 
 	
-</details>
-<details open><summary>⚡ Recent GitHub Activity</summary>
+
+
 <div align="center">	
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbangade&theme=codeSTACKr&background=transparent"/>
 
 </div>
  
-</details>
 
-</details>
      
      
      
@@ -94,9 +73,8 @@
      
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</br><img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="280" height="2.5"/></h2>
+  <summary><h2>🛠️ My Favorite Tools</br>
 </summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
