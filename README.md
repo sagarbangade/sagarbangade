@@ -1,13 +1,13 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/109343765/179432448-d00a4efd-a4ce-4b63-be1a-1f6178925832.gif"/> -->
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c433d191-c6f3-4b6f-beee-38f666d93d2b"/>
+<!-- <img src="https://github.com/user-attachments/assets/c433d191-c6f3-4b6f-beee-38f666d93d2b"/> -->
 </div>
-<h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi<a href="" target="blank"><img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="captain._.sagar" height="50" width="50" /></a>, I'm Sagar Eknath Bangade</h1>
+<h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi<a href="" target="blank"><img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="Sagar Eknath Bangade" height="50" width="50" /></a>, I'm Sagar Eknath Bangade</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=450&color=fe3c01&width=600&lines=Founder+of+SkillsFoster.com+and+Shreecode.in;Intern+at+ImmverseAI+Specializing+in+Generative+AI;Aspiring+Entrepreneur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=50&color=fe3c01&width=600&lines=Founder+of+SkillsFoster.com;Full+Stack+Developer;BTech+in+AI" alt="Typing SVG" />
   </a>
 </p>
 </br>
