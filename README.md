@@ -8,10 +8,13 @@
 <h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi<a href="" target="blank"><img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="Sagar Eknath Bangade" height="50" width="50" /></a>, I'm Sagar Eknath Bangade</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=50&color=fe3c01&width=600&lines=Founder+of+SkillsFoster.com;Full+Stack+Developer;BTech+in+AI" alt="Typing SVG" />
-  </a>
+  <a href="https://sagar.skillsfoster.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?logoColor=white" alt="Sagar Eknath Bangade" width="100">
+  </a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=50&color=fe3c01&width=600&lines=Founder+of+SkillsFoster.com;Full+Stack+Developer;BTech+in+AI" alt="Typing SVG">
 </p>
+
 </br>
 <div>
 <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" />
