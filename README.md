@@ -8,6 +8,10 @@
 <h1 align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi<a href="" target="blank"><img align="center" src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="Sagar Eknath Bangade" height="50" width="50" /></a>, I'm Sagar Eknath Bangade</h1>
 
 <p align="center">
+<a href="https://gist.github.com/sagarbangade/75dd6d823405181a64a5ee79adeecdda.js">
+	gist
+<!--     <img src="https://img.shields.io/badge/Portfolio-000000.svg?logoColor=white" alt="Sagar Eknath Bangade" width="100"> -->
+</a> 
   <a href="https://sagar.skillsfoster.com">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?logoColor=white" alt="Sagar Eknath Bangade" width="100">
   </a> 
@@ -20,7 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=sagarbangade&label=Profile%20views&color=fa2e05&style=flat" alt="sagarbangade" />
 </div>
 <div>	
-
 <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1&color=FE3C01&multiline=true&random=false&width=200&height=150&separator=%3C&lines=while(alive)+%7B%3C&#160+eat();%3C&#160+sleep();%3C&#160+code();%3C&#160+repeat();%3C%7D" alt="Typing SVG" /></a>
 </div>
 <div>
