@@ -1,0 +1,32 @@
+name: GitHub Profile 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # Optional: set your UTC offset so "productive time" is accurate
+          # SETTING_JSON: ""
+
+      - name: Commit and push generated SVGs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A ./profile-3d-contrib
+          git commit -m "chore: regenerate 3d contribution calendar" || exit 0
+          git push
