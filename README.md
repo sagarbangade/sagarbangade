@@ -176,8 +176,6 @@ teams actually want to use.
   </tr>
 </table>
 
-<p align="center"><i>👉 Pin your best public repos on your profile, or drop repo cards here:</i></p>
-
 <br/>
 
 <h2 align="center">📊 GitHub in Numbers</h2>
@@ -197,8 +195,6 @@ teams actually want to use.
   </picture>
 </div>
 
-<p align="center"><sub>⚠️ This only appears after you commit <code>.github/workflows/snake.yml</code> and the workflow runs once — see SETUP.md</sub></p>
-
 <h3 align="center">📈 More stats — profile summary cards</h3>
   <br/>
   <div align="center">
@@ -213,7 +209,7 @@ teams actually want to use.
   <br/>
   <div align="center">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="97%"/>
-    <p><sub>Needs <code>.github/workflows/profile-3d.yml</code> — see SETUP.md</sub></p>
+    
   </div>
 
 <br/>
