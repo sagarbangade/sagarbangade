@@ -10,12 +10,11 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=2800&pause=800&color=FE3C01&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer+%40+InspironLabs;React+%7C+Next.js+%7C+Node.js+%7C+AWS;Micro-Frontend+%26+Serverless+Architecture;Founder+of+SkillsFoster.com;B.Tech+in+Artificial+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=2800&pause=800&color=FE3C01&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer+%40+InspironLabs;React+%7C+Next.js+%7C+Node.js+%7C+AWS;Micro-Frontend+%26+Serverless+Architecture;B.Tech+in+Artificial+Intelligence" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sagar.skillsfoster.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=FE3C01"></a>
   <a href="https://linkedin.com/in/sagar-bangade" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sagar.bangade.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/sagarbangade" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -39,7 +38,6 @@ teams actually want to use.
 
 - 🔭 Currently a **Software Engineer at InspironLabs**, Bengaluru — React, MUI, Node.js, AWS
 - 🧠 **B.Tech in Artificial Intelligence** — I started in AI/ML and came to full stack via NLP and LLM work
-- 🌱 Building **[SkillsFoster](https://sagar.skillsfoster.com)**, an e-learning platform
 - 🏗️ Deep in **micro-frontends (Module Federation)**, **design systems (Storybook)**, and **serverless (AWS Lambda)**
 - 💬 Ask me about React architecture, splitting up a legacy frontend, or anything tech
 - ⚡ Fun fact: I'm passionate about aliens and weird stuff
@@ -226,9 +224,7 @@ teams actually want to use.
   <a href="https://linkedin.com/in/sagar-bangade" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://sagar.skillsfoster.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/sagar.skillsfoster.com-000000.svg?style=for-the-badge&logo=vercel&logoColor=FE3C01"></a>
-</p>
+
 
 <br/>
 
