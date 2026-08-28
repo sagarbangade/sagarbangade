@@ -44,32 +44,11 @@ teams actually want to use.
 
 <br clear="right"/>
 
-```typescript
-class SoftwareEngineer implements Developer {
-  name = "Sagar Eknath Bangade";
-  role = "Full Stack Software Engineer @ InspironLabs";
-  location = "Bengaluru, India 🇮🇳";
-  education = "B.Tech in Artificial Intelligence 🧠";
+<br/>
 
-  primaryStack(): TechStack {
-    return {
-      frontend: ["React", "Next.js", "TypeScript", "Redux", "Material UI", "Storybook", "Tailwind CSS"],
-      backend:  ["Node.js", "Express", "Python", "Flask", "REST APIs", "Microservices"],
-      cloud:    ["AWS (Lambda, S3, EC2)", "Docker", "Serverless", "GitHub Actions"],
-      database: ["MongoDB", "MySQL", "Oracle", "PostgreSQL"]
-    };
-  }
-
-  engineeringFocus(): string[] {
-    return [
-      "Modular Micro-Frontend Architectures (Module Federation)",
-      "Enterprise Component Libraries & Atomic Design Systems",
-      "Event-Driven Cloud & Scalable Serverless Services",
-      "Production-ready AI/LLM Integrations"
-    ];
-  }
-}
-```
+<div align="center">
+  <img src="./assets/dev-hud.svg" alt="Developer HUD" width="100%"/>
+</div>
 
 <h2 align="center">💼 Where I've Worked</h2>
 
@@ -239,14 +218,6 @@ class SoftwareEngineer implements Developer {
 
 <br/>
 
-<h3 align="center">💡 Dev Humor of the Day</h3>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=0D1117&borderColor=FE3C01&qColor=FE3C01&aColor=FFFFFF" alt="Daily Developer Joke" />
-</p>
-
-<br/>
-
 <h2 align="center">🤝 Let's Build Something</h2>
 
 <p align="center">
@@ -258,8 +229,6 @@ class SoftwareEngineer implements Developer {
   <a href="mailto:sagar.bangade.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/sagar.bangade.dev@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/sagar-bangade" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-
 
 <br/>
 
