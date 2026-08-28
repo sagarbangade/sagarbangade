@@ -1,9 +1,7 @@
-<!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/de642295-bdac-43b4-9e13-7916d4949cbf" alt="Namaste" width="100%"/>
 </div>
 
-<!-- ==================== NAME + TYPING INTRO ==================== -->
 <h1 align="center">
   Hi
   <img src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" alt="wave" height="42" width="42" />
@@ -16,7 +14,6 @@
   </a>
 </p>
 
-<!-- ==================== SOCIAL / CONTACT BADGES ==================== -->
 <p align="center">
   <a href="https://sagar.skillsfoster.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=FE3C01"></a>
   <a href="https://linkedin.com/in/sagar-bangade" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -32,7 +29,6 @@
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1&color=FE3C01&multiline=true&width=230&height=160&separator=%3C&lines=while(alive)+%7B%3C++eat();%3C++sleep();%3C++code();%3C++repeat();%3C%7D" alt="while alive loop" />
 
 ### 🧑‍🚀 About Me
@@ -50,7 +46,6 @@ teams actually want to use.
 
 <br clear="right"/>
 
-<!-- ==================== EXPERIENCE ==================== -->
 <h2 align="center">💼 Where I've Worked</h2>
 
 <table>
@@ -70,7 +65,6 @@ teams actually want to use.
 
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
 <h2 align="center">🛠️ My Toolkit</h2>
 
 <div align="center">
@@ -153,7 +147,6 @@ teams actually want to use.
 
 <br/>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
 <h2 align="center">🚀 Featured Work</h2>
 
 <table>
@@ -185,32 +178,14 @@ teams actually want to use.
 
 <p align="center"><i>👉 Pin your best public repos on your profile, or drop repo cards here:</i></p>
 
-<!--
-  REPO CARDS - replace REPO_NAME with a real repo, then delete this comment block's markers.
-  <p align="center">
-    <a href="https://github.com/sagarbangade/REPO_NAME">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=sagarbangade&repo=REPO_NAME&theme=transparent&title_color=FE3C01&text_color=e6b400&border_color=DDDAD5&border_radius=20" />
-    </a>
-  </p>
--->
-
 <br/>
 
-<!-- ==================== GITHUB STATS ==================== -->
 <h2 align="center">📊 GitHub in Numbers</h2>
 
 <p align="center">
   <img alt="Sagar's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&border_radius=20" width="57%"/>
   <img alt="Sagar's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sagarbangade&langs_count=10&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="38%"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Sagar's streak" src="https://streak-stats.demolab.com?user=sagarbangade&theme=transparent&background=transparent&border=DDDAD5&ring=FE3C01&fire=FE3C01&currStreakLabel=FE3C01&sideLabels=e6b400&dates=e6b400&currStreakNum=e6b400&sideNums=e6b400&border_radius=20"/>
-  </a>
-</p>
-
-
 
 <h3 align="center">🐍 Watch the snake eat my contributions</h3>
 
@@ -224,10 +199,7 @@ teams actually want to use.
 
 <p align="center"><sub>⚠️ This only appears after you commit <code>.github/workflows/snake.yml</code> and the workflow runs once — see SETUP.md</sub></p>
 
-
-
-<details>
-  <summary align="center"><b>📈 More stats — profile summary cards</b></summary>
+<h3 align="center">📈 More stats — profile summary cards</h3>
   <br/>
   <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbangade&theme=github_dark" width="97%"/>
@@ -236,20 +208,16 @@ teams actually want to use.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarbangade&theme=github_dark" width="48%"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagarbangade&theme=github_dark&utcOffset=5.5" width="48%"/>
   </div>
-</details>
 
-<details>
-  <summary align="center"><b>🧊 3D contribution calendar</b></summary>
+<h3 align="center">🧊 3D contribution calendar</h3>
   <br/>
   <div align="center">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="97%"/>
     <p><sub>Needs <code>.github/workflows/profile-3d.yml</code> — see SETUP.md</sub></p>
   </div>
-</details>
 
 <br/>
 
-<!-- ==================== LET'S CONNECT ==================== -->
 <h2 align="center">🤝 Let's Build Something</h2>
 
 <p align="center">
@@ -268,7 +236,6 @@ teams actually want to use.
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
 <p align="center">
   <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/sOaKnjmTTPsBqM1DSA/giphy.gif" width="280">
