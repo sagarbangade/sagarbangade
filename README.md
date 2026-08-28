@@ -74,28 +74,6 @@ teams actually want to use.
 <h2 align="center">🛠️ My Toolkit</h2>
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,c,cpp,cs,html,css,mysql&perline=11" alt="languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind,bootstrap,vite,jquery&perline=8" alt="frontend" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,tensorflow,wordpress&perline=7" alt="backend" />
-
-**Cloud & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,vscode,figma&perline=9" alt="cloud and tooling" />
-
-</div>
-
-<details open>
-  <summary><h3>📋 The detailed version</h3></summary>
-
   <h4>👨‍💻 Languages</h4>
   <p>
     <a href="https://github.com/search?q=user%3Asagarbangade+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20(ES6%2B)-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -171,7 +149,7 @@ teams actually want to use.
     <img alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%20%2F%20Scrum-FE3C01.svg">
     <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-FE3C01.svg">
   </p>
-</details>
+</div>
 
 <br/>
 
