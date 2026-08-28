@@ -189,7 +189,7 @@ teams actually want to use.
   REPO CARDS - replace REPO_NAME with a real repo, then delete this comment block's markers.
   <p align="center">
     <a href="https://github.com/sagarbangade/REPO_NAME">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarbangade&repo=REPO_NAME&theme=transparent&title_color=FE3C01&text_color=e6b400&border_color=DDDAD5&border_radius=20" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=sagarbangade&repo=REPO_NAME&theme=transparent&title_color=FE3C01&text_color=e6b400&border_color=DDDAD5&border_radius=20" />
     </a>
   </p>
 -->
@@ -200,8 +200,8 @@ teams actually want to use.
 <h2 align="center">📊 GitHub in Numbers</h2>
 
 <p align="center">
-  <img alt="Sagar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&border_radius=20" width="57%"/>
-  <img alt="Sagar's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbangade&langs_count=10&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="38%"/>
+  <img alt="Sagar's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&border_radius=20" width="57%"/>
+  <img alt="Sagar's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sagarbangade&langs_count=10&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=FE3C01&text_color=e6b400&border_radius=20" width="38%"/>
 </p>
 
 <p align="center">
@@ -210,9 +210,7 @@ teams actually want to use.
   </a>
 </p>
 
-<p align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sagarbangade&bg_color=transparent&color=e6b400&line=FE3C01&point=FE3C01&area=true&hide_border=true&custom_title=Contribution%20Graph" width="97%"/>
-</p>
+
 
 <h3 align="center">🐍 Watch the snake eat my contributions</h3>
 
@@ -226,13 +224,7 @@ teams actually want to use.
 
 <p align="center"><sub>⚠️ This only appears after you commit <code>.github/workflows/snake.yml</code> and the workflow runs once — see SETUP.md</sub></p>
 
-<h3 align="center">🏆 Trophy Case</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sagarbangade&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <details>
   <summary align="center"><b>📈 More stats — profile summary cards</b></summary>
