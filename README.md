@@ -50,26 +50,37 @@ teams actually want to use.
   <img src="./assets/dev-hud.svg" alt="Developer HUD" width="100%"/>
 </div>
 
-<h2 align="center">💼 Where I've Worked</h2>
+<br/>
 
-<table>
-  <tr>
-    <td width="30%"><b>Software Engineer</b><br/><sub>InspironLabs Pvt. Ltd.<br/>Bengaluru · 04/2025 – Present</sub></td>
-    <td>Responsive <b>React + MUI</b> apps with code splitting and lazy loading. Built the reusable <b>MUI + Storybook</b> component library used across products. <b>Redux</b> for state. Backend work in <b>Node.js, Python, PHP</b> and <b>AWS Lambda</b>.</td>
-  </tr>
-  <tr>
-    <td><b>AI/ML Intern</b><br/><sub>ImmverseAI Innovations<br/>Nagpur · 12/2023 – 06/2024</sub></td>
-    <td>Prototyped <b>NLP/LLM chatbot</b> features via API integrations — <b>+22% user engagement</b>. Researched emerging AI models and fed findings into the team roadmap.</td>
-  </tr>
-  <tr>
-    <td><b>Full Stack Java Developer Intern</b><br/><sub>Asterisc Technocrat<br/>Nagpur · 10/2022 – 12/2023</sub></td>
-    <td>Modular <b>JSP / Servlet / Hibernate</b> applications — cut the <b>UAT defect rate by 15%</b>. Hands-on with deployment to test and production.</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</div>
 
 <br/>
 
-<h2 align="center">🛠️ My Toolkit</h2>
+<div align="center">
+  <img src="./assets/header-experience.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/experience-card.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/header-toolkit.svg" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
   <h4>👨‍💻 Languages</h4>
@@ -151,38 +162,35 @@ teams actually want to use.
 
 <br/>
 
-<h2 align="center">🚀 Featured Work</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Healthcare Platform 2.0</h3>
-      <p><sub><b>React · Next.js · Module Federation · Storybook · Material UI</b></sub></p>
-      <p>Migrated a legacy healthcare application to a <b>micro-frontend architecture</b>, so each module
-      scales and deploys independently. Built and maintained the shared Storybook component library that
-      keeps design consistent across teams.</p>
-      <p>
-        <img alt="micro-frontends" src="https://img.shields.io/badge/-Micro--Frontends-FE3C01?style=flat-square">
-        <img alt="design system" src="https://img.shields.io/badge/-Design%20System-FE3C01?style=flat-square">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 E-Learning Platform</h3>
-      <p><sub><b>Node.js · Python · PHP · AWS Lambda · MySQL · Serverless</b></sub></p>
-      <p>Shipped features for a large-scale e-learning platform while modernizing and optimizing legacy
-      codebases. Implemented backend services and <b>AWS Lambda</b> functions across three runtimes,
-      feeding a scalable serverless architecture.</p>
-      <p>
-        <img alt="serverless" src="https://img.shields.io/badge/-Serverless-FE3C01?style=flat-square">
-        <img alt="legacy modernization" src="https://img.shields.io/badge/-Legacy%20Modernization-FE3C01?style=flat-square">
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</div>
 
 <br/>
 
-<h2 align="center">📊 GitHub in Numbers</h2>
+<div align="center">
+  <img src="./assets/header-missions.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/featured-work.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/header-stats.svg" width="100%"/>
+</div>
+
+<br/>
 
 <p align="center">
   <img alt="Sagar's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=sagarbangade&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=FE3C01&ring_color=D24939&border_radius=20" width="57%"/>
@@ -199,31 +207,43 @@ teams actually want to use.
   </picture>
 </div>
 
-<h3 align="center">📈 More stats — profile summary cards</h3>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbangade&theme=github_dark" width="97%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarbangade&theme=github_dark" width="48%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagarbangade&theme=github_dark" width="48%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarbangade&theme=github_dark" width="48%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagarbangade&theme=github_dark&utcOffset=5.5" width="48%"/>
-  </div>
+<br/>
 
-<h3 align="center">🧊 3D contribution calendar</h3>
-  <br/>
-  <div align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="97%"/>
-    
-  </div>
+<h3 align="center">📈 Profile Summary Cards</h3>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbangade&theme=github_dark" width="97%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarbangade&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagarbangade&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarbangade&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagarbangade&theme=github_dark&utcOffset=5.5" width="48%"/>
+</div>
 
 <br/>
 
-<h2 align="center">🤝 Let's Build Something</h2>
+<h3 align="center">🧊 3D Contribution Calendar</h3>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="97%"/>
+</div>
 
-<p align="center">
-  I'm open to interesting full-stack work, frontend architecture problems, and collaborations.<br/>
-  Fastest way to reach me is email — I reply to everything.
-</p>
+<br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/header-connect.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/connect-card.svg" width="100%"/>
+</div>
+
+<br/>
 
 <p align="center">
   <a href="mailto:sagar.bangade.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/sagar.bangade.dev@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -232,12 +252,6 @@ teams actually want to use.
 
 <br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/sOaKnjmTTPsBqM1DSA/giphy.gif" width="280">
-  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif" width="50">
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/sagarbangade">sagarbangade</a> — thanks for scrolling this far.</i>
-</p>
+<div align="center">
+  <img src="./assets/footer.svg" width="100%"/>
+</div>

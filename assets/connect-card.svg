@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="120" viewBox="0 0 850 120">
+  <defs>
+    <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FE3C01;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FE3C01;stop-opacity:0.4"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    @keyframes borderGlow{0%,100%{stroke-opacity:.3}50%{stroke-opacity:.8}}
+    @keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+    .bg{animation:borderGlow 3s ease-in-out infinite}
+    .p{animation:pulse 2s ease-in-out infinite}
+  </style>
+  <rect width="850" height="120" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="848" height="118" rx="11" fill="none" stroke="url(#ng)" stroke-width="1" class="bg"/>
+  <path d="M 14 5 L 5 5 L 5 14" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <path d="M 836 5 L 845 5 L 845 14" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <path d="M 14 115 L 5 115 L 5 106" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <path d="M 836 115 L 845 115 L 845 106" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <circle class="p" cx="30" cy="60" r="5" fill="#2ea043"/>
+  <text x="45" y="50" fill="#E6EDF3" font-family="'Courier New',monospace" font-size="14">I am open to interesting full-stack work, frontend architecture problems, and collaborations.</text>
+  <text x="45" y="75" fill="#C9D1D9" font-family="'Courier New',monospace" font-size="13">Fastest way to reach me is <tspan fill="#FE3C01">email</tspan> — I reply to everything.</text>
+  <text x="45" y="102" fill="#8B949E" font-family="'Courier New',monospace" font-size="10">「 一緒に何かを作ろう 」 // let us build something together</text>
+</svg>

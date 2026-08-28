@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="60" viewBox="0 0 850 60">
+  <defs>
+    <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FE3C01;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#FF6B35;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#FE3C01;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    @keyframes borderPulse { 0%,100% { stroke-opacity:.4; } 50% { stroke-opacity:1; } }
+    @keyframes scanH { 0% { transform:translateX(-100px); } 100% { transform:translateX(950px); } }
+    .bp { animation: borderPulse 3s ease-in-out infinite; }
+    .sc { animation: scanH 4s linear infinite; }
+  </style>
+  <rect width="850" height="60" rx="8" fill="#0D1117"/>
+  <rect x="1" y="1" width="848" height="58" rx="7" fill="none" stroke="url(#ng)" stroke-width="1" class="bp"/>
+  <path d="M 12 4 L 4 4 L 4 12" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#glow)"/>
+  <path d="M 838 4 L 846 4 L 846 12" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#glow)"/>
+  <path d="M 12 56 L 4 56 L 4 48" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#glow)"/>
+  <path d="M 838 56 L 846 56 L 846 48" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#glow)"/>
+  <rect class="sc" x="0" y="28" width="60" height="2" fill="#FE3C01" opacity="0.15" rx="1"/>
+  <text x="30" y="37" fill="#FE3C01" font-family="'Courier New',monospace" font-size="18" font-weight="bold" filter="url(#glow)">💼 EXPERIENCE.LOG</text>
+  <text x="820" y="32" fill="#8B949E" font-family="'Courier New',monospace" font-size="11" text-anchor="end">経験記録</text>
+  <text x="820" y="48" fill="#21262D" font-family="'Courier New',monospace" font-size="9" text-anchor="end">// experience log</text>
+</svg>

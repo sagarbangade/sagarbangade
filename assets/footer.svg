@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="80" viewBox="0 0 850 80">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="20%" style="stop-color:#FE3C01;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#FF6B35;stop-opacity:0.8"/>
+      <stop offset="80%" style="stop-color:#FE3C01;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+    .p{animation:pulse 3s ease-in-out infinite}
+    .bk{animation:blink 1.5s step-end infinite}
+  </style>
+  <rect width="850" height="80" rx="10" fill="#0D1117"/>
+  <line x1="50" y1="15" x2="800" y2="15" stroke="url(#fg)" stroke-width="1" filter="url(#g)" class="p"/>
+  <circle cx="425" cy="15" r="2" fill="#FE3C01" filter="url(#g)" class="p"/>
+  <text x="425" y="42" fill="#8B949E" font-family="'Courier New',monospace" font-size="12" text-anchor="middle">⭐ From <tspan fill="#FE3C01" filter="url(#g)">sagarbangade</tspan> — thanks for scrolling this far</text>
+  <text x="425" y="62" fill="#21262D" font-family="'Courier New',monospace" font-size="10" text-anchor="middle">「 全てのコードには物語がある 」 // every line of code has a story</text>
+  <rect class="bk" x="534" y="50" width="2" height="14" fill="#FE3C01" opacity="0.4"/>
+</svg>
