@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/mRuujU5-lCQAAAAC/itachi.gif" alt="Itachi Uchiha" width="100%"/>
+  <img src="https://media1.tenor.com/m/mRuujU5-lCQAAAAC/itachi.gif" alt="Itachi Uchiha" width="500"/>
 </div>
 
 <h1 align="center">
