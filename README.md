@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/de642295-bdac-43b4-9e13-7916d4949cbf" alt="Namaste" width="100%"/>
+  <img src="./assets/header-main.svg" alt="Cyberpunk Header" width="100%"/>
 </div>
 
 <h1 align="center">
