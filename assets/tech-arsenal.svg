@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="520" viewBox="0 0 850 520">
+  <defs>
+    <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FE3C01;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FE3C01;stop-opacity:0.4"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    @keyframes fadeIn{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+    @keyframes borderGlow{0%,100%{stroke-opacity:.3}50%{stroke-opacity:.8}}
+    @keyframes scanV{0%{transform:translateY(-10px);opacity:.2}100%{transform:translateY(520px);opacity:.2}}
+    .f1{animation:fadeIn .4s ease-out .1s both}
+    .f2{animation:fadeIn .4s ease-out .3s both}
+    .f3{animation:fadeIn .4s ease-out .5s both}
+    .f4{animation:fadeIn .4s ease-out .7s both}
+    .f5{animation:fadeIn .4s ease-out .9s both}
+    .f6{animation:fadeIn .4s ease-out 1.1s both}
+    .f7{animation:fadeIn .4s ease-out 1.3s both}
+    .bg{animation:borderGlow 3s ease-in-out infinite}
+    .sc{animation:scanV 5s linear infinite}
+    .cat{fill:#FE3C01;font-family:'Courier New',monospace;font-size:13px;font-weight:bold}
+    .sep{fill:#21262D;font-family:'Courier New',monospace;font-size:12px}
+    .itm{fill:#C9D1D9;font-family:'Courier New',monospace;font-size:12px}
+    .dim{fill:#8B949E;font-family:'Courier New',monospace;font-size:10px}
+  </style>
+  <rect width="850" height="520" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="848" height="518" rx="11" fill="none" stroke="url(#ng)" stroke-width="1" class="bg"/>
+  <path d="M 14 5 L 5 5 L 5 14" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <path d="M 836 5 L 845 5 L 845 14" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <path d="M 14 515 L 5 515 L 5 506" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <path d="M 836 515 L 845 515 L 845 506" fill="none" stroke="#FE3C01" stroke-width="2" filter="url(#g)"/>
+  <rect class="sc" x="0" y="0" width="850" height="2" fill="#FE3C01" opacity="0.1" rx="1"/>
+
+  <!-- LANGUAGES -->
+  <text class="f1 cat" x="35" y="35" filter="url(#g)">⚔️ LANGUAGES ──────────────────────────────────────────────────────────────────</text>
+  <text class="f1 itm" x="35" y="57">JavaScript (ES6+) │ TypeScript │ Java │ Python │ PHP │ C │ C++ │ C#</text>
+  <text class="f1 itm" x="35" y="75">HTML │ CSS │ SQL │ Google Apps Script</text>
+
+  <!-- FRONTEND -->
+  <text class="f2 cat" x="35" y="108" filter="url(#g)">🎨 FRONTEND ARSENAL ───────────────────────────────────────────────────────────</text>
+  <text class="f2 itm" x="35" y="130">React │ Next.js │ Redux │ Material UI │ Tailwind CSS │ Bootstrap</text>
+  <text class="f2 itm" x="35" y="148">Storybook │ Module Federation │ Vite │ jQuery</text>
+
+  <!-- BACKEND -->
+  <text class="f3 cat" x="35" y="181" filter="url(#g)">⚙️ BACKEND POWER ──────────────────────────────────────────────────────────────</text>
+  <text class="f3 itm" x="35" y="203">Node.js │ Express.js │ REST API │ Flask │ Hibernate │ Serverless</text>
+
+  <!-- DATABASES -->
+  <text class="f4 cat" x="35" y="236" filter="url(#g)">🗄️ DATA VAULTS ────────────────────────────────────────────────────────────────</text>
+  <text class="f4 itm" x="35" y="258">MongoDB │ MySQL │ Oracle</text>
+
+  <!-- CLOUD -->
+  <text class="f5 cat" x="35" y="291" filter="url(#g)">☁️ CLOUD JUTSU &amp; DEVOPS ───────────────────────────────────────────────────────</text>
+  <text class="f5 itm" x="35" y="313">AWS (EC2, S3, Lambda) │ Google Cloud APIs │ Docker │ GitHub Actions</text>
+  <text class="f5 itm" x="35" y="331">Git │ Postman │ Jupyter │ VS Code │ Linux</text>
+
+  <!-- AI / ML -->
+  <text class="f6 cat" x="35" y="364" filter="url(#g)">🧠 AI / ML CHAKRA ─────────────────────────────────────────────────────────────</text>
+  <text class="f6 itm" x="35" y="386">TensorFlow │ NumPy │ Pandas │ NLP / LLM APIs</text>
+
+  <!-- WAYS OF WORKING -->
+  <text class="f7 cat" x="35" y="419" filter="url(#g)">🧭 NINJA WAY ──────────────────────────────────────────────────────────────────</text>
+  <rect class="f7" x="35" y="432" width="165" height="20" rx="4" fill="#FE3C01" opacity="0.12"/>
+  <text class="f7" x="43" y="446" fill="#FE3C01" font-family="'Courier New',monospace" font-size="11">Performance Optimization</text>
+  <rect class="f7" x="210" y="432" width="205" height="20" rx="4" fill="#FE3C01" opacity="0.12"/>
+  <text class="f7" x="218" y="446" fill="#FE3C01" font-family="'Courier New',monospace" font-size="11">Component-Driven Development</text>
+  <rect class="f7" x="425" y="432" width="125" height="20" rx="4" fill="#FE3C01" opacity="0.12"/>
+  <text class="f7" x="433" y="446" fill="#FE3C01" font-family="'Courier New',monospace" font-size="11">Micro-Frontends</text>
+  <rect class="f7" x="560" y="432" width="100" height="20" rx="4" fill="#FE3C01" opacity="0.12"/>
+  <text class="f7" x="568" y="446" fill="#FE3C01" font-family="'Courier New',monospace" font-size="11">Agile / Scrum</text>
+  <rect class="f7" x="670" y="432" width="105" height="20" rx="4" fill="#FE3C01" opacity="0.12"/>
+  <text class="f7" x="678" y="446" fill="#FE3C01" font-family="'Courier New',monospace" font-size="11">Accessibility</text>
+
+  <!-- Bottom decorations -->
+  <line x1="35" y1="475" x2="815" y2="475" stroke="#21262D" stroke-width="1"/>
+  <text x="35" y="500" fill="#21262D" font-family="'Courier New',monospace" font-size="9">loaded 42 modules // system.arsenal.v2.0</text>
+  <text x="815" y="500" fill="#21262D" font-family="'Courier New',monospace" font-size="9" text-anchor="end">「 技術は力なり 」 // technology is power</text>
+</svg>
