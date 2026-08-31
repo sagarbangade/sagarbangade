@@ -48,7 +48,7 @@ teams actually want to use.
 
   </td>
   <td width="35%" align="center" valign="center">
-    <img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="220" alt="Naruto" />
+    <img src="https://media.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif" width="220" alt="Sage Mode Naruto" />
     <br/>
     <sub><b>Believe it! 🍥</b></sub>
   </td>
@@ -116,9 +116,9 @@ teams actually want to use.
       </p>
     </td>
     <td width="30%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.gif" width="200" alt="Goku Power Up" />
+      <img src="https://media.giphy.com/media/wdCfmqwKz4d68/giphy.gif" width="200" alt="Naruto Jutsu" />
       <br/><br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZueWh0ZXI1bW5naGV3MXRxcjU2NjZ1eGg3bGFhYXdvdThhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUHdTk3tvry9NETa67/giphy.gif" width="200" alt="Sasuke" />
+      <img src="https://media.giphy.com/media/jDWQL2uPrBNn2/giphy.gif" width="200" alt="Pixel Naruto" />
     </td>
   </tr>
 </table>
