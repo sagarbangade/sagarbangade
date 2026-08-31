@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/itachi-banner.gif" alt="Itachi Uchiha" width="500"/>
+  <img src="./assets/team7-banner.gif" alt="Team 7" width="100%"/>
 </div>
 
 <h1 align="center">
