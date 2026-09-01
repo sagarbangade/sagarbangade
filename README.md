@@ -135,18 +135,7 @@ teams actually want to use.
   </picture>
 </div>
 
-<br/>
 
-<h3 align="center">📈 Profile Summary Cards</h3>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarbangade&theme=github_dark" width="97%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarbangade&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagarbangade&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagarbangade&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagarbangade&theme=github_dark&utcOffset=5.5" width="48%"/>
-</div>
-
-<br/>
 
 <h3 align="center">🧊 3D Contribution Calendar</h3>
 <div align="center">
